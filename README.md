@@ -1,3 +1,3 @@
 # SoftCam_Emu
 
-NOTE: is compatible only with OScam And Ncam
+NOTE: is compatible only with OScam And Ncam .
